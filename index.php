@@ -13,8 +13,10 @@
 </head>
 
 <body>
-
-	<?php include ('../../inc/header.inc')?>
+	<?php 
+		echo "<p> text </p>"; 
+	?>
+	
 
 	<div id="content">
 
